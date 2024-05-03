@@ -16,7 +16,10 @@ I'm Aunchers, I'm the cyberman.
 ## 🔭 I’m currently working on
 
 - **Zukijourney (Main Dev)**: Largest & Oldest GPT-4 API still continuously around. Offers other popular AI-related Bots too. Processed Billions of Requests, with 4000+ Users.
+  [Github Repo](https://github.com/zukixa/cool-ai-stuff)
+  [Discord](https://discord.gg/zukijourney)
 - **CaramellDansen Transformer AV (Creator)**: A AI Transformer sideproject
+- **Another Disappointment**: Who could know what this is.
 
 ## 🌱 I’m currently learning
 
