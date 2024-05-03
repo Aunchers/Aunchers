@@ -1,16 +1,16 @@
 ---
 # Hey there 👋
 
-I'm Aunchers, 
+I'm Aunchers, I'm the cyberman. 
 ```python
 #I suck at intro's
 ```
 
 ## 🚀 About Me
 
-- 🎓 **Skills:** Python, C++, C#, JS, BF, Programming, Data Science, AI, Blockchain (yeah, KEYWORDS)
+- 🎓 **Skills:** Programming, AI, Blockchain, Cybersecurity (yeah, KEYWORDS)
 - 🌱 I'm currently learning more about creating attention based AI transformers and creating smart contracts.
-- 💬 Ask me about anything you want (ANYTHING), or how I can contribute to your projects.
+- 💬 Ask me about anything you want (ANYTHING)
 - 📫 How to reach me: [Mail](mailto:1_aunchers@proton.me), [Discord (launchers)](https://discordapp.com/channels/@me/800718471935557663)
 
 ## 🔭 I’m currently working on
@@ -22,6 +22,7 @@ I'm Aunchers,
 
 - AI
 - Smart Contract Development
+- *privately* doxxing friends :) 
 
 ## 📈 My GitHub Stats
 
