@@ -29,5 +29,5 @@
 
 <!-- Call to Action -->
 <p style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/aunchers" style="padding: 10px 20px; background-color: #2ea44f; color: white; text-decoration: none; border-radius: 5px; font-size: 1.1rem;">Visit My GitHub</a>
+  <a href="https://aunchers.github.io/site" style="padding: 10px 20px; background-color: #2ea44f; color: white; text-decoration: none; border-radius: 5px; font-size: 1.1rem;">Visit My Site</a>
 </p>
