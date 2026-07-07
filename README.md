@@ -18,14 +18,10 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aunchers&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunchers&layout=compact&theme=dark" alt="Top Languages" style="border-radius: 10px;">
+  <img src="https://github-stats-extended.vercel.app/api?username=aunchers&show_icons=true&theme=dark" alt="GitHub Stats" style="border-radius: 10px;">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aunchers&layout=compact&theme=dark" alt="Top Languages" style="border-radius: 10px;">
 </div>
 
-<!-- GitHub Activity Graph -->
-<p style="text-align: center; margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aunchers&theme=github" alt="GitHub Activity Graph" style="border-radius: 10px; width: 100%; max-width: 800px;">
-</p>
 
 <p style="text-align: center; margin-top: 20px;">
   <a href="https://aunchers.org">
