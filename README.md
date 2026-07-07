@@ -27,7 +27,10 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aunchers&theme=github" alt="GitHub Activity Graph" style="border-radius: 10px; width: 100%; max-width: 800px;">
 </p>
 
-<!-- Call to Action -->
 <p style="text-align: center; margin-top: 20px;">
-  <a href="https://aunchers.github.io/site" style="padding: 10px 20px; background-color: #2ea44f; color: white; text-decoration: none; border-radius: 5px; font-size: 1.1rem;">Visit My Site</a>
+  <a href="https://aunchers.org">
+    <img src="https://raw.githubusercontent.com/Aunchers/aunchers.github.io/main/public/default8831.png" 
+         alt="aunchers" 
+         style="border: none;">
+  </a>
 </p>
